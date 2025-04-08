@@ -1,6 +1,5 @@
-# 🚗 Electric Vehicle Market Analysis – Tableau
-
-### 📅 Date: August 2024  
+# 🚗 Electric Vehicle Market Analysis
+  
 ### 📊 Tool Used: Tableau
 
 ---
